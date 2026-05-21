@@ -2,5 +2,6 @@
 next commit)
 тест 2
 testing file
+untesting file
 тест 3.
 Add line in bash
