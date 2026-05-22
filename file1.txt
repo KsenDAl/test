@@ -6,3 +6,4 @@ untesting file
 тест 3.
 Add line in bash
 new branch line
+test test
